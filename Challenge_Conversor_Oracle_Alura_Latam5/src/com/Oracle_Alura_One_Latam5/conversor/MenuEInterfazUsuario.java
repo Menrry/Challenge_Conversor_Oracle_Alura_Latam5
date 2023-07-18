@@ -24,7 +24,7 @@ import java.awt.Color;
 import java.awt.Toolkit;
 /**
  * 
- * @author menrry
+ * @author Ing. Menrry Santana
  *correo: msantanalacruz@gmail.com
  *whatsApp: +56 937199177
  *
